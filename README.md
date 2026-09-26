@@ -15,6 +15,7 @@ Sou analista programador e pós-graduado em desenvolvimento full-stack e BI. Hoj
 - 🔭 Atualmente trabalhando em: **meus primeiros projetos de IA e dashboards de dados**
 - 🌱 Aprendendo: **pandas, LLMs/RAG, Streamlit e Power BI**
 - 🌐 Portfólio: [viniciusjrcarlos.github.io/portfolio](https://viniciusjrcarlos.github.io/portfolio/)
+- 🔗 Todos os meus links: [viniciusjrcarlos.github.io/links](https://viniciusjrcarlos.github.io/links/)
 
 ---
 
@@ -167,10 +168,12 @@ Sou analista programador e pós-graduado em desenvolvimento full-stack e BI. Hoj
   <a href="https://www.linkedin.com/in/viniciusjrcarlos/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-8B0000?style=for-the-badge&labelColor=0D0D0D&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D"></a>
   <a href="https://viniciusjrcarlos.github.io/portfolio/" target="_blank"><img alt="Portfólio" src="https://img.shields.io/badge/-Portf%C3%B3lio-8B0000?style=for-the-badge&labelColor=0D0D0D&logo=googlechrome&logoColor=white"></a>
   <a href="https://github.com/ViniciusJrCarlos" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-8B0000?style=for-the-badge&labelColor=0D0D0D&logo=github&logoColor=white"></a>
+  <a href="https://viniciusjrcarlos.github.io/links/" target="_blank"><img alt="Meus links" src="https://img.shields.io/badge/-Meus%20links-8B0000?style=for-the-badge&labelColor=0D0D0D&logo=linktree&logoColor=white"></a>
 </p>
 
 - 💼 LinkedIn: [linkedin.com/in/viniciusjrcarlos](https://www.linkedin.com/in/viniciusjrcarlos/)
 - 🌐 Portfólio: [viniciusjrcarlos.github.io/portfolio](https://viniciusjrcarlos.github.io/portfolio/)
+- 🔗 Todos os meus links: [viniciusjrcarlos.github.io/links](https://viniciusjrcarlos.github.io/links/)
 
 <p align="center">
   <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:3B0000,100:000000&height=120&section=footer">
