@@ -1,14 +1,17 @@
 <h1 align="center">Olá, eu sou o Vinicius Carlos 👋</h1>
-<p align="center"><b>Analista Programador · Desenvolvedor Full-stack · Em transição para Dados & IA</b></p>
+<p align="center"><b>Analista Programador · Desenvolvedor Full-stack · Estudando para Dados & IA</b></p>
 <p align="center">📍 São Paulo, Brasil</p>
 
-Sou analista programador e pós-graduado em desenvolvimento full-stack. Tenho experiência com **Java/Spring Boot**, **C#**, **PHP**, **Angular/React** e bancos de dados **SQL e Oracle**, além de suporte a aplicações em squads com DevOps e infraestrutura. Hoje meu foco é **Análise de Dados, Ciência de Dados e IA**, criando projetos com Python, dashboards e Excel, e estou aberto a oportunidades nessa área.
+Sou analista programador e pós-graduado em desenvolvimento full-stack e BI. Hoje meu foco é **Análise de Dados, Ciência de Dados e IA**, criando projetos com Python, dashboards e Excel.
 
 - 🔭 Atualmente trabalhando em: **meus primeiros projetos de IA e dashboards de dados**
 - 🌱 Aprendendo: **pandas, LLMs/RAG, Streamlit e Power BI**
 - 🌐 Portfólio: [viniciusjrcarlos.github.io/portfolio](https://viniciusjrcarlos.github.io/portfolio/)
 
 ---
+
+<details>
+<summary><b>📂 Ver meus projetos, estudos e bootcamps (clique para expandir)</b></summary>
 
 ## 🤖 Projetos de IA
 
@@ -76,6 +79,8 @@ Sou analista programador e pós-graduado em desenvolvimento full-stack. Tenho ex
 - **Node.js & AWS:** [dio-projeto-node-dinamodb](https://github.com/ViniciusJrCarlos/dio-projeto-node-dinamodb)
 - **React, Angular e JavaScript:** [cursoreact](https://github.com/ViniciusJrCarlos/cursoreact) · [cursoangular](https://github.com/ViniciusJrCarlos/cursoangular) · [cursojava-angular](https://github.com/ViniciusJrCarlos/cursojava-angular) · [programandojs](https://github.com/ViniciusJrCarlos/programandojs)
 - **Git & GitHub:** [docsecomandosgitegithub](https://github.com/ViniciusJrCarlos/docsecomandosgitegithub)
+
+</details>
 
 ---
 
